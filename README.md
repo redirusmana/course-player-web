@@ -18,9 +18,12 @@ Follow these steps in your terminal to get the project ready:
 git clone [YOUR_REPOSITORY_URL]
 cd [YOUR_PROJECT_FOLDER_NAME]
 
+```
+
+### B. Install Dependency
+```bash
 npm install
 npm run dev
 ```
-
 
 The application will start and should be accessible in your browser, typically at http://localhost:5173/ or http://localhost:3000/.
